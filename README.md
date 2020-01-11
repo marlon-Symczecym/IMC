@@ -127,7 +127,7 @@ Agora será mostrado os widgets do flutter que foram utilizados para compor essa
 
 Agora será mostrado como ficou a aplicação, utilizando layout passado pelo professor Daniel:
 
-![Print Screen da aplicação](src\printScreen.jpg)
+![Print Screen da aplicação](src/printScreen.jpg)
 
 ****
 ****
