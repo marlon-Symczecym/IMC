@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Projeto feito totalmente em flutter, framework da linguagem dart.
+Projeto feito totalmente em Flutter, framework da linguagem Dart.
 
 
 
