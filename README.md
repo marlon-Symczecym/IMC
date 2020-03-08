@@ -119,7 +119,7 @@ Agora será mostrado os widgets do flutter que foram utilizados para compor essa
 * **TextFormField**: utilizado para fazer os input.
 * **Container**: utilizado para dar espaçamento ao botão **Calcular**.
 * **Raised Button**: utilizado para o botão calcular e atribuir função a ele.
-* **Text**: utilizado para o txto das informações abaixo do botão **calcular**.
+* **Text**: utilizado para o texto das informações abaixo do botão **calcular**.
 
 
 
