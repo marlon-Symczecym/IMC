@@ -136,5 +136,4 @@ Agora será mostrado como ficou a aplicação, utilizando layout passado pelo pr
 
 > Marlon Symczecym
 
-**Agradeço por terem acompanhdo o post todo e a explicação, e trarei mais projetos.**
-
+**Agradeço por terem acompanhado o post todo e a explicação, e trarei mais projetos.**
